@@ -1,0 +1,5 @@
+target/
+lib/repo/
+src/main/resources/
+/APILoggingFile.log
+/src/main/resources/*.properties
