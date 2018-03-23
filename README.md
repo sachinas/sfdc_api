@@ -63,10 +63,6 @@ private static SaveResult[] result ;
 * [Salesforce Soap Api](https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/) - Used to generate RSS Feeds
 
 
-## Authors
-
-* **Thomas Woodhouse** - *Initial work*
-
 
 
 
